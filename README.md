@@ -5,7 +5,7 @@
 
 
 
-![IMG](Main-Interface.png)
+![IMG](./images/Main-Interface.png)
 
 # GhostShot: Ransomware Simulation & Defense Research Tool
 
